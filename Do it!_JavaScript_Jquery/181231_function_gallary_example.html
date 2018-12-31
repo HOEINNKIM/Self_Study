@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+
+<script>
+    var num = 1;
+    function gallary(direct){
+        if(direct){
+            if(num == 8) {
+                return;
+            }
+            num++;
+        } else {
+            if(num == 1){
+                return;
+            }
+            num--;
+        }
+
+        var imgTag = document.getElementById("photo");
+        imgTag.setAttribute("src", "images/pic_" + num + ".jpg");
+    }
+</script>
+</head>
+<body>
+    <div id = "gallaryZone">
+        <p><img src ="images/pic_1.jpg" id="photo" alt=""></p>
+        <p>
+                <button onclick="gallary(0)">이전</button>
+                <button onclick="gallary(1)">다음</button>
+        </p>
+    </div>
+    
+</body>
+</html>
