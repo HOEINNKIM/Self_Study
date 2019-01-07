@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="js/jquery.js"></script>
+    <script>
+        $(function () {
+            $("#btn1")
+            .data({"text":"javascript"})
+            .on({
+                "mouseover": overFnc,
+                "mouseout": outFnc
+            });
+
+            $("#btn2")
+            .data({"text":"welcome!"})
+            .on({
+                "mouseover focus": overFnc,
+                "mouseout blur": outFnc
+            });
+
+            function overFnc(){
+                $(".txt").text($(this).data("text"));
+            }
+
+            function outFnc(){
+                $(".txt").text("");
+            }
+       });
+    </script>
+</head>
+<body>
+    <p><buttion id="btn1">버튼1</buttion></p>
+    <p><buttion id="btn2">버튼2</buttion></p>
+    <p class="txt"></p>
+</body>
+
+</html>

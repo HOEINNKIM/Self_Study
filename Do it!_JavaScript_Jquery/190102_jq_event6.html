@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="js/jquery.js"></script>
+    <script>
+        $(function () {
+            $(".btn1").on("mouseover", function () {
+                $(".txt1").css({ "background-color": "red" });
+            });
+
+            $(".btn1").on("mouseout", function () {
+                $(".txt1").css({ "background-color": "black" });
+            });
+
+            $(".btn2").hover(function () {
+                $(".txt2").css({ "background-color": "green" });
+                }, function () {
+                $(".txt2").css({ "background-color": "violet" });
+            });
+
+
+        });
+    </script>
+</head>
+
+<body>
+    <p>
+        <button class="btn1">Mouse Over/Mouse Out</button>
+    </p>
+    <p class="txt1">내용1</p>
+    <p>
+        <button class="btn2">Hover</button>
+    </p>
+    <p class="txt2">내용2</p>
+
+</body>
+
+</html>
