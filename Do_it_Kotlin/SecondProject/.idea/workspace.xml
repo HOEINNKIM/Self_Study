@@ -3,8 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="fb82c6e5-bf64-4034-9962-0f9d3c12897f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Do_it!_Node_Js/ExpressExample/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/META-INF/SecondProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondProject/META-INF/SecondProject.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleSources.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/META-INF/SecondProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section1/DefaultPackageKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section1/UserClassImportKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/FormattedStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/MinMaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/NullTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/StringExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/StringTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section2/ValVarKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/AnyArgTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/AnyCastingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/BitsShiftKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/IncDecOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/IsCheckKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/LogicalBitwiseKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/NumberTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/SafeCallandElvisKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/UshrExKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/ValueRefCompareKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/chap02/section3/XorSwapTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondProject/com/example/edu/Person.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,19 +43,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap02/section3/LogicalBitwise.kt">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/NoInlineLambdaReturn.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="210">
+              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/TryCatch.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/ThrowExceptionTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap02/section3/XorSwapTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/CustomExceptionTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/NormalBreakContinue.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/section3/InlineLambdaReturn.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -41,6 +101,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -49,6 +110,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -56,22 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/edu/File1.kt" />
-        <option value="$PROJECT_DIR$/src/File1.kt" />
-        <option value="$PROJECT_DIR$/src/com/example/edu/Person.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section1/defaultPackage.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section1/UserClassImport.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/ValVar.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/MinMax.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/StringTest.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/StringExpression.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/FormattedString.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/NullTest.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section2/SafeCallandElvis.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section3/SafeCallandElvis.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section3/ValueRefCompare.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section3/NumberTest.kt" />
-        <option value="$PROJECT_DIR$/src/chap02/section3/AnyCasting.kt" />
         <option value="$PROJECT_DIR$/src/chap02/section3/AnyArgTest.kt" />
         <option value="$PROJECT_DIR$/src/chap02/section3/IncDecOperator.kt" />
         <option value="$PROJECT_DIR$/src/chap02/section3/BitsShift.kt" />
@@ -79,10 +127,54 @@
         <option value="$PROJECT_DIR$/src/chap02/section3/LogicalBitwise.kt" />
         <option value="$PROJECT_DIR$/src/chap02/section3/isCheck.kt" />
         <option value="$PROJECT_DIR$/src/chap02/section3/XorSwapTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/SumFunc.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/MaxFunc.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/DefaultParameter.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/NamedParam.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section1/FuncArgument.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section2/FuncFunc.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section2/HighOrderTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/HighOrderTest2.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/HighOrderTest3.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/CallByValue.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/CallByName.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/FunctionReference.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/LockHighOrder.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/InlineFunction.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/NoinlineTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/LocalReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/LocalReturnCrossinline.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/ExtensionFunction.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section3/infixFunction.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section5/NormalFactorial.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section5/TailRecFactorial.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section5/TailRecursionFibonacci.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section6/LocalFunctionRange.kt" />
+        <option value="$PROJECT_DIR$/src/chap03/section6/GlobalLocalVars.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/IfCondition.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/IfElseIfCondition.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/WhenArgs.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/WhenNoArgs.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/section1/WhenAnyCase.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section1/WhenAnyCase.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section2/ForSum.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section2/ForTriangle.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section2/ForOddSum.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section2/WhileFactorial.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section2/DoWhileLoop.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/InlineLambdaReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/NoInlineLambdaReturn.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/NormalBreakContinue.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/TryCatch.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/ThrowExceptionTest.kt" />
+        <option value="$PROJECT_DIR$/src/chap04/section3/CustomExceptionTest.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -95,7 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,37 +204,51 @@
               <item name="SecondProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecondProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="chap04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SecondProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecondProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="chap04" type="462c0819:PsiDirectoryNode" />
+              <item name="section1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap04" type="462c0819:PsiDirectoryNode" />
               <item name="section2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SecondProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SecondProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="chap04" type="462c0819:PsiDirectoryNode" />
               <item name="section3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chap04/section3" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chap04/section3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/chap02/section3" />
+      <recent name="$PROJECT_DIR$/src/chap04/section1/section1" />
+      <recent name="$PROJECT_DIR$/src/chap03/section3" />
+      <recent name="$PROJECT_DIR$/src/chap03/section4" />
+      <recent name="$PROJECT_DIR$/src/chap03/section5" />
+      <recent name="$PROJECT_DIR$/src/chap03/section2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,67 +263,114 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chap02.section3.XorSwapTestKt">
-    <configuration name="chap02.section3.BitsShiftKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="SecondProject" />
+  <component name="RunManager" selected="Kotlin.chap04.section3.CustomExceptionTestKt">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ExampleSources" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.BitsShiftKt" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap02.section3.IsCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="SecondProject" />
+    <configuration name="chap04.section3.CustomExceptionTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ExampleSources" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.IsCheckKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.CustomExceptionTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap02.section3.LogicalBitwiseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="SecondProject" />
+    <configuration name="chap04.section3.NormalBreakContinueKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ExampleSources" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.LogicalBitwiseKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.NormalBreakContinueKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap02.section3.UshrExKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="SecondProject" />
+    <configuration name="chap04.section3.ThrowExceptionTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ExampleSources" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.UshrExKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.ThrowExceptionTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap02.section3.XorSwapTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="SecondProject" />
+    <configuration name="chap04.section3.TryCatchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ExampleSources" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chap02.section3.XorSwapTestKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.TryCatchKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap04.section3.noinline.NoInlineLambdaReturnKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ExampleSources" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.noinline.NoInlineLambdaReturnKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ExampleSources" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -225,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.chap02.section3.XorSwapTestKt" />
-        <item itemvalue="Kotlin.chap02.section3.LogicalBitwiseKt" />
-        <item itemvalue="Kotlin.chap02.section3.UshrExKt" />
-        <item itemvalue="Kotlin.chap02.section3.BitsShiftKt" />
-        <item itemvalue="Kotlin.chap02.section3.IsCheckKt" />
+        <item itemvalue="Kotlin.chap04.section3.CustomExceptionTestKt" />
+        <item itemvalue="Kotlin.chap04.section3.ThrowExceptionTestKt" />
+        <item itemvalue="Kotlin.chap04.section3.TryCatchKt" />
+        <item itemvalue="Kotlin.chap04.section3.NormalBreakContinueKt" />
+        <item itemvalue="Kotlin.chap04.section3.noinline.NoInlineLambdaReturnKt" />
       </list>
     </recent_temporary>
   </component>
@@ -247,10 +400,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31759655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32618025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -259,7 +411,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,6 +420,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
+      <window_info anchor="right" id="Kotlin Bytecode" visible="true" weight="0.22460657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -291,111 +444,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/edu/File1.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/String.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section1/UserClassImport.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section1/defaultPackage.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#25#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/edu/Person.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/File1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/StringTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/NullTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/FormattedString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/StringExpression.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/MinMax.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section2/ValVar.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section3/UshrEx.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section3/BitsShift.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section3/IncDecOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section3/AnyArgTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap02/section3/AnyCasting.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -431,10 +479,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap02/section3/LogicalBitwise.kt">
+    <entry file="file://$PROJECT_DIR$/src/chap03/section1/NamedParam.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section1/DefaultParameter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section1/MaxFunc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section1/SumFunc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -442,6 +511,289 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap02/section3/LogicalBitwise.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/FuncFunc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/HighOrderTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/FuncArgument.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/HighOrderTest2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/HighOrderTest3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/LocalReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/NoinlineTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/InlineFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/LockHighOrder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/ParamCount.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/FunctionReference.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/CallByName.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/CallByValue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/LocalReturnCrossinline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section1/IfElseIfCondition.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section1/IfCondition.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section6/GlobalLocalVars.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section6/LocalFunctionRange.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section5/TailRecursionFibonacci.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section5/TailRecFactorial.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section5/NormalFactorial.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section3/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section5/infixFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/section4/ExtensionFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section2/ForTriangle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section2/ForSum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section1/WhenAnyCase.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section1/WhenNoArgs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section1/WhenArgs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section2/DoWhileLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section2/WhileFactorial.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section2/ForOddSum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/NormalBreakContinue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/InlineLambdaReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/NoInlineLambdaReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/TryCatch.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/ThrowExceptionTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/section3/CustomExceptionTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
